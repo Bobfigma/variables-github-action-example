@@ -21,7 +21,7 @@
       },
       "Default Hover": {
         "$type": "color",
-        "$value": "{Gray.100}",
+        "$value": "{Gray.500}",
         "$description": "Bg/Default/Default Hover",
         "$extensions": {
           "com.figma": {
