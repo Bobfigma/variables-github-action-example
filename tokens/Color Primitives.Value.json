@@ -30,7 +30,7 @@
     },
     "300": {
       "$type": "color",
-      "$value": "#d9d9d9",
+      "$value": "#e7e7e7",
       "$description": "",
       "$extensions": {
         "com.figma": {
