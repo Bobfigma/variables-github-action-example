@@ -3,7 +3,7 @@
     "Default": {
       "Default": {
         "$type": "color",
-        "$value": "{Green.700}",
+        "$value": "{Background.Utilities.Blanket}",
         "$description": "Bg/Default/Default",
         "$extensions": {
           "com.figma": {
