@@ -2,7 +2,7 @@
   "Brand": {
     "100": {
       "$type": "color",
-      "$value": "#ffe1e1",
+      "$value": "#ffffff",
       "$description": "",
       "$extensions": {
         "com.figma": {
@@ -79,7 +79,8 @@
           "hiddenFromPublishing": true,
           "scopes": [],
           "codeSyntax": {
-            "WEB": "var(--sds-color-brand-600)"
+            "WEB": "var(--sds-color-brand-600)",
+            "iOS": "Brand/600"
           }
         }
       }
