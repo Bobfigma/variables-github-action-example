@@ -2,14 +2,16 @@
   "Brand": {
     "100": {
       "$type": "color",
-      "$value": "#e2d3d3",
+      "$value": "#e48f8f",
       "$description": "",
       "$extensions": {
         "com.figma": {
           "hiddenFromPublishing": true,
           "scopes": [],
           "codeSyntax": {
-            "WEB": "var(--sds-color-brand-100)"
+            "WEB": "var(--sds-color-brand-100)",
+            "ANDROID": "Brand/100",
+            "iOS": "Brand/100"
           }
         }
       }
@@ -31,7 +33,7 @@
     },
     "300": {
       "$type": "color",
-      "$value": "#985c5c",
+      "$value": "#9a9a9a",
       "$description": "",
       "$extensions": {
         "com.figma": {
