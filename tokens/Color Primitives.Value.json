@@ -2,7 +2,7 @@
   "Brand": {
     "100": {
       "$type": "color",
-      "$value": "#c75454",
+      "$value": "#e28d8d",
       "$description": "",
       "$extensions": {
         "com.figma": {
