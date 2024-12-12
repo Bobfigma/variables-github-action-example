@@ -15,7 +15,7 @@
   },
   "Price": {
     "$type": "number",
-    "$value": 3.990000009536743,
+    "$value": 9.989999771118164,
     "$description": "",
     "$extensions": {
       "com.figma": {
