@@ -15,7 +15,7 @@
   },
   "Price": {
     "$type": "number",
-    "$value": 9.989999771118164,
+    "$value": 3.990000009536743,
     "$description": "",
     "$extensions": {
       "com.figma": {
@@ -83,9 +83,37 @@
       }
     }
   },
+  "Amount in basket": {
+    "$type": "string",
+    "$value": "0",
+    "$description": "",
+    "$extensions": {
+      "com.figma": {
+        "hiddenFromPublishing": false,
+        "scopes": [
+          "ALL_SCOPES"
+        ],
+        "codeSyntax": {}
+      }
+    }
+  },
+  "Basket total": {
+    "$type": "string",
+    "$value": "0",
+    "$description": "",
+    "$extensions": {
+      "com.figma": {
+        "hiddenFromPublishing": false,
+        "scopes": [
+          "ALL_SCOPES"
+        ],
+        "codeSyntax": {}
+      }
+    }
+  },
   "Theme": {
     "$type": "color",
-    "$value": "#7db8a9",
+    "$value": "#02fdbd",
     "$description": "",
     "$extensions": {
       "com.figma": {
@@ -100,34 +128,6 @@
   "In basket?": {
     "$type": "boolean",
     "$value": false,
-    "$description": "",
-    "$extensions": {
-      "com.figma": {
-        "hiddenFromPublishing": false,
-        "scopes": [
-          "ALL_SCOPES"
-        ],
-        "codeSyntax": {}
-      }
-    }
-  },
-  "Amount in basket": {
-    "$type": "number",
-    "$value": 0,
-    "$description": "",
-    "$extensions": {
-      "com.figma": {
-        "hiddenFromPublishing": false,
-        "scopes": [
-          "ALL_SCOPES"
-        ],
-        "codeSyntax": {}
-      }
-    }
-  },
-  "Basket total": {
-    "$type": "number",
-    "$value": 0,
     "$description": "",
     "$extensions": {
       "com.figma": {
