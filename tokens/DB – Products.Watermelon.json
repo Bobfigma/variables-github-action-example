@@ -71,7 +71,7 @@
   },
   "Location": {
     "$type": "string",
-    "$value": "San Francisco",
+    "$value": "London",
     "$description": "",
     "$extensions": {
       "com.figma": {
@@ -113,7 +113,7 @@
   },
   "Theme": {
     "$type": "color",
-    "$value": "#1d6b57",
+    "$value": "#00ffbe",
     "$description": "",
     "$extensions": {
       "com.figma": {
