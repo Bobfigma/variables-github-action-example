@@ -79,7 +79,10 @@
         "scopes": [
           "ALL_SCOPES"
         ],
-        "codeSyntax": {}
+        "codeSyntax": {
+          "WEB": "Location",
+          "ANDROID": "Location"
+        }
       }
     }
   },
@@ -113,7 +116,7 @@
   },
   "Theme": {
     "$type": "color",
-    "$value": "#0d60f9",
+    "$value": "#06f80a",
     "$description": "",
     "$extensions": {
       "com.figma": {

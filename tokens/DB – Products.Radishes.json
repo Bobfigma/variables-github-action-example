@@ -79,7 +79,10 @@
         "scopes": [
           "ALL_SCOPES"
         ],
-        "codeSyntax": {}
+        "codeSyntax": {
+          "WEB": "Location",
+          "ANDROID": "Location"
+        }
       }
     }
   },
