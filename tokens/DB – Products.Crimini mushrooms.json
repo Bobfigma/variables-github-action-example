@@ -140,7 +140,11 @@
         "scopes": [
           "ALL_SCOPES"
         ],
-        "codeSyntax": {}
+        "codeSyntax": {
+          "WEB": "In basket?",
+          "ANDROID": "In basket?",
+          "iOS": "In basket?"
+        }
       }
     }
   }

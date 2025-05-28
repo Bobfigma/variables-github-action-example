@@ -116,7 +116,7 @@
   },
   "Theme": {
     "$type": "color",
-    "$value": "#11e914",
+    "$value": "#9b9b9b",
     "$description": "",
     "$extensions": {
       "com.figma": {
@@ -140,7 +140,11 @@
         "scopes": [
           "ALL_SCOPES"
         ],
-        "codeSyntax": {}
+        "codeSyntax": {
+          "WEB": "In basket?",
+          "ANDROID": "In basket?",
+          "iOS": "In basket?"
+        }
       }
     }
   }
