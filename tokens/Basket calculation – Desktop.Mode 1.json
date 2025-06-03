@@ -42,7 +42,10 @@
           "scopes": [
             "ALL_SCOPES"
           ],
-          "codeSyntax": {}
+          "codeSyntax": {
+            "ANDROID": "shipping/shipping",
+            "iOS": "shipping/shipping"
+          }
         }
       }
     },
