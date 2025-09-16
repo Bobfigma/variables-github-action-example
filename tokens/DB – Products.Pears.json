@@ -116,7 +116,7 @@
   },
   "Theme": {
     "$type": "color",
-    "$value": "#def358",
+    "$value": "#00ff3c",
     "$description": "",
     "$extensions": {
       "com.figma": {
@@ -125,7 +125,8 @@
           "ALL_SCOPES"
         ],
         "codeSyntax": {
-          "WEB": "Theme"
+          "WEB": "Theme",
+          "ANDROID": "Theme"
         }
       }
     }

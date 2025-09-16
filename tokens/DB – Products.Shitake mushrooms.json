@@ -125,7 +125,8 @@
           "ALL_SCOPES"
         ],
         "codeSyntax": {
-          "WEB": "Theme"
+          "WEB": "Theme",
+          "ANDROID": "Theme"
         }
       }
     }
