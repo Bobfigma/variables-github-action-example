@@ -116,7 +116,7 @@
   },
   "Theme": {
     "$type": "color",
-    "$value": "#ff2323",
+    "$value": "#960707",
     "$description": "",
     "$extensions": {
       "com.figma": {
